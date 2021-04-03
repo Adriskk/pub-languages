@@ -1,0 +1,12 @@
+{
+    "recent-orders": "ПОСЛЕДНИЕ ЗАКАЗЫ",
+    "delivery-type": ["Доставка", "На месте"],
+    "total-orders": "ВСЕ: ",
+
+    "meals": "ПИТАНИЕ",
+    "order": "ПРИКАЗ",
+    "settings": "НАСТРОЙКИ",
+    "statistics": "СТАТИСТИКА",
+    "pricing": "ЦЕНЫ",
+    "exit": "ВЫХОД"
+}

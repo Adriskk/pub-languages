@@ -1,0 +1,13 @@
+{
+    "recent-orders": "LETZTE BESTELLUNGEN",
+    "delivery-type": ["Lieferung", "An Ort und Stelle"],
+    "total-orders": "GESAMT: ",
+
+    "meals": "MAHLZEITEN",
+    "order": "AUFTRAG",
+    "settings": "DIE EINSTELLUNGEN",
+    "statistics": "STATISTIKEN",
+    "pricing": "PREISGESTALTUNG",
+    "exit": "AUSFAHRT"
+}
+

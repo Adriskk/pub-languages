@@ -1,0 +1,13 @@
+{
+    "recent-orders": "LAST ORDERS",
+    "delivery-type": ["Delivery", "In-place"],
+    "total-orders": "TOTAL: ",
+
+    "meals": "MEALS",
+    "order": "ORDER",
+    "settings": "SETTINGS",
+    "statistics": "STATISTICS",
+    "pricing": "PRICING",
+    "exit": "EXIT"
+}
+

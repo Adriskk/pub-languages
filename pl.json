@@ -1,0 +1,12 @@
+{
+    "recent-orders": "OSTATNIE ZAMÓWIENIA",
+    "delivery-type": ["Dowóz", "Na miejscu"],
+    "total-orders": "WSZYSTKICH: ",
+
+    "meals": "POSIŁKI",
+    "order": "ZAMÓWENIE",
+    "settings": "USTAWIENIA",
+    "statistics": "STATYSTYKI",
+    "pricing": "PLAN PŁATNICZY",
+    "exit": "WYJŚCIE"
+}
