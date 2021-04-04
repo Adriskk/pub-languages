@@ -2,6 +2,7 @@
     "recent-orders": "LETZTE BESTELLUNGEN",
     "delivery-type": ["Lieferung", "An Ort und Stelle"],
     "total-orders": "GESAMT: ",
+    "no-orders-yet": "Noch keine Bestellungen",
 
     "meals": "MAHLZEITEN",
     "order": "AUFTRAG",
