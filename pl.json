@@ -2,6 +2,7 @@
     "recent-orders": "OSTATNIE ZAMÓWIENIA",
     "delivery-type": ["Dowóz", "Na miejscu"],
     "total-orders": "WSZYSTKICH: ",
+    "no-orders-yet": "Brak zamówień",
 
     "meals": "POSIŁKI",
     "order": "ZAMÓWENIE",
