@@ -2,6 +2,7 @@
     "recent-orders": "LAST ORDERS",
     "delivery-type": ["Delivery", "In-place"],
     "total-orders": "TOTAL: ",
+    "no-orders-yet": "No orders yet",
 
     "meals": "MEALS",
     "order": "ORDER",
