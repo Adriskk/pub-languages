@@ -1,5 +1,5 @@
 {
-    "recent-orders": "LAST ORDERS",
+    "recent-orders": "RECENT ORDERS",
     "delivery-type": ["Delivery", "In-place"],
     "total-orders": "TOTAL: ",
     "no-orders-yet": "No orders yet",
